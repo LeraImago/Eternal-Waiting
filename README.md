@@ -1,2 +1,2 @@
 # Eternal-Waiting
-my work on different types of three.js materials
+My work on different types of three.js materials
